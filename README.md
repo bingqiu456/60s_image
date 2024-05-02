@@ -1,9 +1,9 @@
-![logo](E:\60s\logo.png)
+![logo](https://cdn.bingyue.xyz/logo.png)
 
 <center><h2>冰月每日日报📰<h2><center/>
 <div>
-    <center><i>作者:bingyue💻<i><center/>
-     <center><i>配图:网络🎉<center><i/>
+    <center><i><p>作者:bingyue💻<i><p><center/>
+     <center><i><p>配图:网络🎉<p><center><i/>
       <center><i>新闻:百度新闻+网易新闻📄<center><i/>
     <div/>
 
